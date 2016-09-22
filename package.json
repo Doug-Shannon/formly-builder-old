@@ -1,0 +1,27 @@
+{
+  "name": "formly-builder",
+  "version": "1.0.0",
+  "description": "Model Binding for building forms with angular and formly",
+  "main": "formlyBuilder.module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doug-Shannon/formly-builder.git"
+  },
+  "author": "Crossroads",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doug-Shannon/formly-builder/issues"
+  },
+  "homepage": "https://github.com/Doug-Shannon/formly-builder#readme",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
